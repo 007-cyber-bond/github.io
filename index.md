@@ -15,3 +15,4 @@ Dies ist Bestandteil der zweiten Übung. Hier soll eine Kurzbeschreibung eingef�
 	* Good Year
 	* Pirelli
 
+> Ich glaube nur den Statistiken, die ich selbst gefälscht habe!
